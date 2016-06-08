@@ -6,11 +6,11 @@
     <html>
     	<head>
     		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    		<title> My first JSP   </title>
+    		<title>Github|Maven|Jenkins  </title>
     	</head>	
     	<body>		
     		<form action="/UserManagement/hpe">			
-    			 Please enter a color <br>
+    			 Please Enter a color <br>
     			<input type="text" name="color"size="20px">
     			<input type="submit" value="submit">						
     		</form>		
